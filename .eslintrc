@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+  "rules": {},
+  "settings": {
+    "import/resolver": {
+      "babel-plugin-root-import": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "current",
+          "browsers": "last 2 versions"
+        }
+      }
+    ],
+    "stage-0",
+    "es2015",
+    "es2016",
+    "es2017",
+    "react"
+  ],
+  "plugins": [
+    [
+      "babel-root-import",
+      {
+        "rootPathSuffix": "backend"
+      }
+    ],
+    "transform-class-properties"
+  ]
+}

@@ -1,0 +1,15 @@
+# Node.
+npm-debug.log
+coverage/
+node_modules/
+
+# env
+.env
+
+# Public (distribution).
+public/*bundle.js
+
+# Config files.
+config/*
+!config/default.js
+!config/test.js
