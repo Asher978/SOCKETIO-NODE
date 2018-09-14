@@ -49,6 +49,9 @@ A simple Node / Express Server integrated with Socket.IO
 ```
 
 ##### Sockets Cheatsheet 
+
+> Event handler guide -- https://socket.io/docs/emit-cheatsheet/ 
+
 ``` javascript
 
 
